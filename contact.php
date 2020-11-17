@@ -11,7 +11,7 @@
     	<fieldset><legend>Votre message :</legend>
     		<p><label for="objet">Objet :</label><input type="text" id="objet" name="objet" /></p>
     		<p><label for="msg">Message :</label><textarea id="message" name="msg" ></textarea></p>
-				<button class="g-recaptcha" 
+				<button class="envoyer" 
         data-sitekey="6LcW6-MZAAAAAJYTFABo6We1JuY9SBRwA4XT2nEy" 
         data-callback='onSubmit' 
         data-action='submit'>Envoyer</button>

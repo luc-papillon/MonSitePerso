@@ -131,6 +131,10 @@ button{
 	border-color:blue;
 }
 
+button.envoyer {
+	margin-left:auto;
+}
+
 
 .gend img{
 	width:30%;
