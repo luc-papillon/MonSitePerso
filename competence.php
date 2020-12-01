@@ -9,5 +9,8 @@
 							<li class='li'>Conception de sites internet <br/><br/><progress class='prog'  max='100' value='70'></progress><div>70%</div><div>(site perso)</div></li>
 							<li class='li'>Maitrise des reseaux sociaux <br/><br/><progress class='prog'  max='100' value='90'></progress><div>90%</div><div>(Facebook,Instagram,Linkedin etc...)</div></li>
 					</ul>
-					<button><a href='/dev/site/CV.pdf' target='_blank' >Mon CV</a></button>
+				<form method='get' action='CV.pdf'>
+				
+					<button>Mon CV</button>
+				</form>
 			</div>
