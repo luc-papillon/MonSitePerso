@@ -8,7 +8,8 @@ Pour comprendre comment j'en suis arrivé au rendu final il faut d'abord regarde
 # Démarrage
 Pour lancer le site web il y a deux possibilités:
 - Installer wamp, le lancer puis ensuite taper le chemin du fichier ou est le site web avec le local host devant.
-- Lancer le fichier du site web a partir de heroku.
+- Lancer le fichier du site web a partir de heroku:
+https://lucpapillon.herokuapp.com/
 
 # Fabriqué avec :
 - notepad++
